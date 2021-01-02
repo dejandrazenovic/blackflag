@@ -13,7 +13,7 @@ Because this is an open source script, you may alter it to suit your needs and h
 1. Ensure that JS browser automation is enabled in Safari, located at `Develop > Allow JavaScript from Apple Events`. JavaScript automation is unfortunately not supported in Firefox and using Chrome is not reccommended due to it being borderline spyware.
 2. Create a `txt` file with UTF-8 encoding containing the queries you want to use on separate lines. On launch, **blackflag** will ask how many entries (lines) are in your file. The more queries you think of, the more effective the script will be and the more frequently you can run it.
 
-When you launch blackflag, you will be asked to choose your querylist, # of queries, and repetitions you want to run.
+When you launch **blackflag**, you will be asked to choose your querylist, # of queries, and repetitions you want to run.
 
 ## TODO:
 - Look into controlling the mouse to create mouse movements (Google tracks mouse movement). 
